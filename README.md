@@ -11,4 +11,11 @@ This project reconstructs the original World Wide Web information pages, focusin
 * HTML5
 
 ### How to Run
-Simply open `index.html` in any modern web browser to view the project.
+**Live Demo:**
+You can view the live project instantly here: 
+[View Live Project] (https://jasminelynne01123.github.io/HTML-Project-1/)
+
+**Local Setup:**
+If you'd like to run it locally:
+1. Clone this repository or download the files.
+2. Open `index.html` in any modern web browser.
